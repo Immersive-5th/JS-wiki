@@ -7,4 +7,4 @@
 
 
 ## Toy
-[SuffleDeck](https://www.blogger.com/blogger.g?blogID=2221438767417447583#editor/target=post;postID=8523717523685185013;onPublishedMenu=allposts;onClosedMenu=allposts;postNum=0;src=postname)
+[SuffleDeck](https://enzoblogit.blogspot.kr/2018/01/toysuffledeckjs.html) - 이준호
