@@ -9,3 +9,6 @@
 
 ## Toy
 [SuffleDeck](https://enzoblogit.blogspot.kr/2018/01/toysuffledeckjs.html) - 이준호
+
+## 기타
+[AWS101 세미나 정리(180320)](https://medium.com/@lyhlg0201/aws-101-%EC%84%B8%EB%AF%B8%EB%82%98%EB%A5%BC-%EB%8B%A4%EB%85%80%EC%99%80%EC%84%9C-df540d225dc3) - 이용현
