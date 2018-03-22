@@ -7,6 +7,8 @@
 
 [ES6 문법 정리](http://itstory.tk/entry/JavaScript-ES6-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC) - 정유택
 
+[Frontend Guide](https://m.blog.naver.com/magnking/221149133410) - 정유택
+
 ## Toy
 [SuffleDeck](https://enzoblogit.blogspot.kr/2018/01/toysuffledeckjs.html) - 이준호
 
