@@ -9,6 +9,8 @@
 
 [Frontend Guide](https://m.blog.naver.com/magnking/221149133410) - 정유택
 
+[변수로 자바스크립트 이해하기(this, 변수객체, 스코프, 스코프체인, 실행객체, 클로저, 호이스팅)](http://yubylab.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B3%80%EC%88%98%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) - 정수형
+
 ## Toy
 [SuffleDeck](https://enzoblogit.blogspot.kr/2018/01/toysuffledeckjs.html) - 이준호
 
