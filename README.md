@@ -1,5 +1,8 @@
 # Javascript Summary for Interview
 
+## Javascript 기초 이론 
+[Block/Non-Block/Sync/Async](http://lelumiere.tistory.com/14) - 이용현
+
 ## 자료구조
 [Stack과 Queue](https://medium.com/@lyhlg0201/immersive-sprint-js-stack-queue-426ccfbdb602) - 이용현
 
