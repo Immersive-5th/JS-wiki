@@ -1,5 +1,9 @@
 # Javascript Summary for Interview
 
+## HTML
+
+[브라우저 렌더링](http://12bme.tistory.com/140) - 정유택
+
 ## Javascript 기초 이론
 [Block/Non-Block/Sync/Async](http://lelumiere.tistory.com/14) - 이용현
 
