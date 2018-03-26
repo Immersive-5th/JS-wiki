@@ -1,5 +1,8 @@
 # Javascript Summary for Interview
 
+## 웹개발자에게 필요한 기본적인 CS 지식 디렉토리
+[CS 공부 디렉토리](https://medium.com/@changmoomoon/%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-cs%EC%A7%80%EC%8B%9D-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-229033e76f3c) - 문창무
+
 ## HTML
 
 [브라우저 렌더링](http://12bme.tistory.com/140) - 정유택
