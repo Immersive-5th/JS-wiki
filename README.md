@@ -27,5 +27,7 @@
 ## 기타
 [AWS101 세미나 정리(180320)](https://medium.com/@lyhlg0201/aws-101-%EC%84%B8%EB%AF%B8%EB%82%98%EB%A5%BC-%EB%8B%A4%EB%85%80%EC%99%80%EC%84%9C-df540d225dc3) - 이용현
 
+[Minimal Git Command](https://github.com/JaeYeopHan/Minimal_Git_command) - 최종규
+
 ## React
 [함수형 setState](https://www.vobour.com/%ED%95%A8%EC%88%98%ED%98%95-setstate%EA%B0%80-%EB%A6%AC%EC%95%A1%ED%8A%B8-react-%EC%9D%98-%EB%AF%B8%EB%9E%98%EC%9D%B4%EB%8B%A4-functiona) - 최종규
