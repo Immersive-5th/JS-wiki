@@ -16,7 +16,7 @@
 
 [this와 self의 차이점 한글요약(2)](http://k9e4h.tistory.com/141) - 문창무
 
-[call by sharing](https://github.com/milooy/TIL/blob/master/JavaScript/call-by-sharing.md) - 
+[call by sharing](https://github.com/milooy/TIL/blob/master/JavaScript/call-by-sharing.md) - 문창무
 
 ## 자료구조
 
