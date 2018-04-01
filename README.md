@@ -27,7 +27,7 @@
 [Frontend Guide](https://m.blog.naver.com/magnking/221149133410) - 정유택
 
 ## Toy
-[알고리즘 문제용 배열 메소드 정리(상황별, 원본수정/사본반환 ](https://medium.com/@changmoomoon/javascript-%EB%B0%B0%EC%97%B4-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%A0%95%EB%A6%AC-%EC%83%81%ED%99%A9%EB%B3%84-%EC%9B%90%EB%B3%B8%EC%88%98%EC%A0%95-%EC%82%AC%EB%B3%B8%EB%B0%98%ED%99%98-%EC%97%AC%EB%B6%80-7ac1285fa7ef) - 문창무
+[알고리즘 문제용 배열 메소드 정리(상황별, 원본수정/사본반환 여부)](https://medium.com/@changmoomoon/javascript-%EB%B0%B0%EC%97%B4-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%A0%95%EB%A6%AC-%EC%83%81%ED%99%A9%EB%B3%84-%EC%9B%90%EB%B3%B8%EC%88%98%EC%A0%95-%EC%82%AC%EB%B3%B8%EB%B0%98%ED%99%98-%EC%97%AC%EB%B6%80-7ac1285fa7ef) - 문창무
 
 [SuffleDeck](https://enzoblogit.blogspot.kr/2018/01/toysuffledeckjs.html) - 이준호
 
