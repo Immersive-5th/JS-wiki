@@ -10,9 +10,9 @@
 ## Javascript 기초 이론
 [Block/Non-Block/Sync/Async](http://lelumiere.tistory.com/14) - 이용현
 
-[Difference between using variable self vs this](https://stackoverflow.com/questions/20210978/difference-between-using-variable-self-vs-this) - 문창무
+[Difference between using variable self vs this(1)](https://stackoverflow.com/questions/20210978/difference-between-using-variable-self-vs-this) - 문창무
 
-[this와 self의 차이점 한글요약](http://k9e4h.tistory.com/141) - 문창무
+[this와 self의 차이점 한글요약(2)](http://k9e4h.tistory.com/141) - 문창무
 
 ## 자료구조
 [변수로 자바스크립트 이해하기(this, 변수객체, 스코프, 스코프체인, 실행객체, 클로저, 호이스팅)](http://yubylab.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B3%80%EC%88%98%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0) - 정수형
