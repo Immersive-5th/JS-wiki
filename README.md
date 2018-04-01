@@ -33,5 +33,8 @@
 
 [Minimal Git Command](https://github.com/JaeYeopHan/Minimal_Git_command) - 최종규
 
+[브라우저에서 google을 입력했을 때 일어나는 일들의 과정 (클라이언트사이드 -> 서버사이드 -> 클라이언트사이드)](https://github.com/alex/what-happens-when) - 문창무
+
+
 ## React
 [함수형 setState](https://www.vobour.com/%ED%95%A8%EC%88%98%ED%98%95-setstate%EA%B0%80-%EB%A6%AC%EC%95%A1%ED%8A%B8-react-%EC%9D%98-%EB%AF%B8%EB%9E%98%EC%9D%B4%EB%8B%A4-functiona) - 최종규
