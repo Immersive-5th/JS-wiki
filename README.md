@@ -9,7 +9,9 @@
 
 ## Javascript 기초 이론
 [Block/Non-Block/Sync/Async](http://lelumiere.tistory.com/14) - 이용현
+
 [Difference between using variable self vs this](https://stackoverflow.com/questions/20210978/difference-between-using-variable-self-vs-this) - 문창무
+
 [this와 self의 차이점 한글요약](http://k9e4h.tistory.com/141) - 문창무
 
 ## 자료구조
