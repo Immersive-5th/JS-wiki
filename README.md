@@ -16,6 +16,8 @@
 
 [this와 self의 차이점 한글요약(2)](http://k9e4h.tistory.com/141) - 문창무
 
+[call by sharing](https://github.com/milooy/TIL/blob/master/JavaScript/call-by-sharing.md) - 
+
 ## 자료구조
 
 [Stack과 Queue](https://medium.com/@lyhlg0201/immersive-sprint-js-stack-queue-426ccfbdb602) - 이용현
