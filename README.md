@@ -18,6 +18,8 @@
 
 [call by sharing](https://github.com/milooy/TIL/blob/master/JavaScript/call-by-sharing.md) - 문창무
 
+[쉽게 이해하는 자바스크립트 프로토타입 체인](http://meetup.toast.com/posts/104) - 문창무
+
 ## 자료구조
 
 [Stack과 Queue](https://medium.com/@lyhlg0201/immersive-sprint-js-stack-queue-426ccfbdb602) - 이용현
