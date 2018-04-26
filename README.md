@@ -51,4 +51,4 @@
 
 ## Node.js
 
-[저수준 시스템 레벨에서의 node.js서버(c++, libuv C 레벨의 코드가 있다는 것만 참고(핀다 면접 질문)](http://blog.jeonghwan.net/node/2017/01/27/node-io-deep.html) - 문창무
+[저수준 시스템 레벨에서의 node.js서버(c++, libuv C 레벨의 코드가 있다는 것만 참고(핀다 면접 질문))](http://blog.jeonghwan.net/node/2017/01/27/node-io-deep.html) - 문창무
