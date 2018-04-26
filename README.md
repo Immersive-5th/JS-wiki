@@ -48,3 +48,7 @@
 [React vs Angular 비교. React를 프로젝트에서 쓰면 왜 좋은지에 대한 답변](http://cyberx.tistory.com/142) - 문창무
 
 [함수형 setState](https://www.vobour.com/%ED%95%A8%EC%88%98%ED%98%95-setstate%EA%B0%80-%EB%A6%AC%EC%95%A1%ED%8A%B8-react-%EC%9D%98-%EB%AF%B8%EB%9E%98%EC%9D%B4%EB%8B%A4-functiona) - 최종규
+
+## Node.js
+
+[저수준 시스템 레벨에서의 node.js서버(c++, libuv C 레벨의 코드가 있다는 것만 참고(핀다 면접 질문)](http://blog.jeonghwan.net/node/2017/01/27/node-io-deep.html) - 문창무
